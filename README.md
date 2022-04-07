@@ -23,4 +23,4 @@ Futuramente eu pretendo fazer uma configuração onde assim que o programa for i
 Dessa forma a avaliação se a postura está correta ou não fica mais flexível para cada ambiente. 
 </p>
 
-<iframe src="https://player.vimeo.com/video/697116903?h=3f55276c79&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Demonstra&amp;ccedil;&amp;atilde;o monitor de postura _1.0"></iframe>
+https://vimeo.com/697116903/3f55276c79
