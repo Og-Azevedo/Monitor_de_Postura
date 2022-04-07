@@ -23,5 +23,5 @@ Futuramente eu pretendo fazer uma configuração onde assim que o programa for i
 Dessa forma a avaliação se a postura está correta ou não fica mais flexível para cada ambiente. 
 </p>
 
-[![Monitor de Postura 1.0](![image](https://imgur.com/a/EG9LFde))](https://vimeo.com/697116903/3f55276c79 "Monitor de postura 1.0!")
+<a href="https://vimeo.com/697116903/3f55276c79">Vídeo demonstrativo: Monitor de postura 1.0</a>
 
